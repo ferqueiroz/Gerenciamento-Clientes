@@ -1,4 +1,4 @@
-# Exercício 05: Gerenciamento de Clientes
+# Exercício 06: Gerenciamento de Clientes
 
 ## Enunciado
 Crie um serviço RESTful em Spring Boot para gerenciar clientes. O objetivo é praticar mapeamento JPA e operações CRUD com múltiplos campos de texto.
